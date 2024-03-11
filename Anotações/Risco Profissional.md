@@ -5,7 +5,6 @@ aliases:
   - Ruídos:
 tags: []
 ---
-
 ## Ruídos:
 - Sala cx ~= 100 dB;
 - O que pode causar:
@@ -18,7 +17,7 @@ tags: []
 - Unidade de aquecimento é a principal fonte de ruído.
 
 ## Radiação
-- Menor comprimento de onda = maior capacidade inonizante;
+- Menor comprimento de onda = maior capacidade ionizante;
 - Efeito cumulativo;
 - Limite máximo de exposição:
     -
